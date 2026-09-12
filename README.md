@@ -1,5 +1,6 @@
 # OrderDesk — seed folder (Lab 02)
 
+
 A small slice of the OrderDesk back office. It has **no `.git` directory** — you create the
 repository yourself in step 1 of the lab.
 
