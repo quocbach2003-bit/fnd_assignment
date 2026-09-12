@@ -8,6 +8,7 @@ function openReturn(order, lines) {
     throw new Error('a return must cover at least one line');
   }
 
+  
   return {
     orderId: order.id,
     lines,
